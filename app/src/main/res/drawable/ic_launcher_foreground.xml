@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- viewfinder corners -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="3.5" android:strokeLineCap="round"
+        android:pathData="M28,40V32Q28,28 32,28H40 M68,28H76Q80,28 80,32V40 M80,68V76Q80,80 76,80H68 M40,80H32Q28,80 28,76V68"/>
+    <!-- document -->
+    <path android:fillColor="#FFFFFF" android:pathData="M39,38H61L69,46V70Q69,72 67,72H41Q39,72 39,70Z"/>
+    <path android:fillColor="#BFEFE9" android:pathData="M61,38V46H69Z"/>
+    <path android:fillColor="#19BCAA" android:pathData="M44,53h20v2.5h-20z M44,59h20v2.5h-20z M44,65h12v2.5h-12z"/>
+    <!-- scan beam -->
+    <path android:fillColor="#55FFC857" android:pathData="M24,52h60v10h-60z"/>
+    <path android:fillColor="#FFC857" android:pathData="M24,55.5h60v3h-60z"/>
+</vector>
